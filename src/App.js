@@ -13,6 +13,7 @@ class App extends Component {
           </p>
           <p>paragraph</p>
       <p>paragraph second</p>
+      <p>paragraph third</p>
           <a
             className="App-link"
             href="https://reactjs.org"
